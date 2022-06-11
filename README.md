@@ -1,9 +1,7 @@
-hi im antonios
+hi
 
-i like to code
+i can write hello world in rust
 
-i dont go outside
+that means im superior to everyone
 
-i stan linux
-
-yeah thats it
+i use arch btw
