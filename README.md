@@ -2,6 +2,6 @@ hi
 
 i can write hello world in rust
 
-that means im superior to everyone
+time to add "proficient in rust" to my resume
 
 i use arch btw
